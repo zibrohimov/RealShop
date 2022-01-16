@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RealShop.Data\RealShop.Data.csproj" />
+    <ProjectReference Include="..\RealShop.Domain\RealShop.Domain.csproj" />
+    <ProjectReference Include="..\RealShop.ViewModel\RealShop.ViewModel.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Domain\bin\Debug\netcoreapp3.1\RealShop.Domain.deps.json
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Domain\bin\Debug\netcoreapp3.1\RealShop.Domain.dll
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Domain\bin\Debug\netcoreapp3.1\RealShop.Domain.pdb
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Domain\obj\Debug\netcoreapp3.1\RealShop.Domain.csproj.AssemblyReference.cache
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Domain\obj\Debug\netcoreapp3.1\RealShop.Domain.AssemblyInfoInputs.cache
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Domain\obj\Debug\netcoreapp3.1\RealShop.Domain.AssemblyInfo.cs
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Domain\obj\Debug\netcoreapp3.1\RealShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Domain\obj\Debug\netcoreapp3.1\RealShop.Domain.dll
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Domain\obj\Debug\netcoreapp3.1\RealShop.Domain.pdb

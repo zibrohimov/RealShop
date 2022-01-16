@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RealShop.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "RealShop.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RealShop.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RealShop.Data.dll": {}
+        }
+      },
+      "RealShop.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/RealShop.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RealShop.Domain.dll": {}
+        }
+      },
+      "RealShop.ViewModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "RealShop.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RealShop.ViewModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RealShop.ViewModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RealShop.Data/1.0.0": {
+      "type": "project",
+      "path": "../RealShop.Data/RealShop.Data.csproj",
+      "msbuildProject": "../RealShop.Data/RealShop.Data.csproj"
+    },
+    "RealShop.Domain/1.0.0": {
+      "type": "project",
+      "path": "../RealShop.Domain/RealShop.Domain.csproj",
+      "msbuildProject": "../RealShop.Domain/RealShop.Domain.csproj"
+    },
+    "RealShop.ViewModel/1.0.0": {
+      "type": "project",
+      "path": "../RealShop.ViewModel/RealShop.ViewModel.csproj",
+      "msbuildProject": "../RealShop.ViewModel/RealShop.ViewModel.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "RealShop.Data >= 1.0.0",
+      "RealShop.Domain >= 1.0.0",
+      "RealShop.ViewModel >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\zibro\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.Service\\RealShop.Service.csproj",
+      "projectName": "RealShop.Service",
+      "projectPath": "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.Service\\RealShop.Service.csproj",
+      "packagesPath": "C:\\Users\\zibro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\zibro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://gneng-nexus.kenna.io/repository/golfnow/": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.Data\\RealShop.Data.csproj": {
+              "projectPath": "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.Data\\RealShop.Data.csproj"
+            },
+            "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.Domain\\RealShop.Domain.csproj": {
+              "projectPath": "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.Domain\\RealShop.Domain.csproj"
+            },
+            "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.ViewModel\\RealShop.ViewModel.csproj": {
+              "projectPath": "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.ViewModel\\RealShop.ViewModel.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

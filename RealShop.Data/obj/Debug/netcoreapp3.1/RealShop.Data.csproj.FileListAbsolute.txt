@@ -1,0 +1,12 @@
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Data\bin\Debug\netcoreapp3.1\RealShop.Data.deps.json
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Data\bin\Debug\netcoreapp3.1\RealShop.Data.dll
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Data\bin\Debug\netcoreapp3.1\RealShop.Data.pdb
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Data\bin\Debug\netcoreapp3.1\RealShop.Domain.dll
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Data\bin\Debug\netcoreapp3.1\RealShop.Domain.pdb
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Data\obj\Debug\netcoreapp3.1\RealShop.Data.csproj.AssemblyReference.cache
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Data\obj\Debug\netcoreapp3.1\RealShop.Data.AssemblyInfoInputs.cache
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Data\obj\Debug\netcoreapp3.1\RealShop.Data.AssemblyInfo.cs
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Data\obj\Debug\netcoreapp3.1\RealShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Data\obj\Debug\netcoreapp3.1\RealShop.Data.csproj.CopyComplete
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Data\obj\Debug\netcoreapp3.1\RealShop.Data.dll
+C:\Users\zibro\source\repos\rs\RealShop\RealShop.Data\obj\Debug\netcoreapp3.1\RealShop.Data.pdb
