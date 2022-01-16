@@ -1,4 +1,4 @@
-#A sample N-Tier Architecture Chart.
+# A sample N-Tier Architecture Chart.
 
 
 
