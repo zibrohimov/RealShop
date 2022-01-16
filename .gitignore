@@ -1,0 +1,11 @@
+/RealShop.Api/obj
+/RealShop.Api/bin
+/.vs
+/RealShop.Data/obj
+/RealShop.Data/bin
+/RealShop.Domain/bin
+/RealShop.Domain/obj
+/RealShop.Service/obj
+/RealShop.Service/bin
+/RealShop.ViewModel/bin
+/RealShop.ViewModel/obj

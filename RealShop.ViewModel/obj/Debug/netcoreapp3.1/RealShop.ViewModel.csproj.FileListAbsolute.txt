@@ -10,3 +10,15 @@ C:\Users\zibro\source\repos\rs\RealShop\RealShop.ViewModel\obj\Debug\netcoreapp3
 C:\Users\zibro\source\repos\rs\RealShop\RealShop.ViewModel\obj\Debug\netcoreapp3.1\RealShop.ViewModel.csproj.CopyComplete
 C:\Users\zibro\source\repos\rs\RealShop\RealShop.ViewModel\obj\Debug\netcoreapp3.1\RealShop.ViewModel.dll
 C:\Users\zibro\source\repos\rs\RealShop\RealShop.ViewModel\obj\Debug\netcoreapp3.1\RealShop.ViewModel.pdb
+D:\rs\RealShop\RealShop.ViewModel\bin\Debug\netcoreapp3.1\RealShop.ViewModel.deps.json
+D:\rs\RealShop\RealShop.ViewModel\bin\Debug\netcoreapp3.1\RealShop.ViewModel.dll
+D:\rs\RealShop\RealShop.ViewModel\bin\Debug\netcoreapp3.1\RealShop.ViewModel.pdb
+D:\rs\RealShop\RealShop.ViewModel\bin\Debug\netcoreapp3.1\RealShop.Domain.dll
+D:\rs\RealShop\RealShop.ViewModel\bin\Debug\netcoreapp3.1\RealShop.Domain.pdb
+D:\rs\RealShop\RealShop.ViewModel\obj\Debug\netcoreapp3.1\RealShop.ViewModel.csproj.AssemblyReference.cache
+D:\rs\RealShop\RealShop.ViewModel\obj\Debug\netcoreapp3.1\RealShop.ViewModel.AssemblyInfoInputs.cache
+D:\rs\RealShop\RealShop.ViewModel\obj\Debug\netcoreapp3.1\RealShop.ViewModel.AssemblyInfo.cs
+D:\rs\RealShop\RealShop.ViewModel\obj\Debug\netcoreapp3.1\RealShop.ViewModel.csproj.CoreCompileInputs.cache
+D:\rs\RealShop\RealShop.ViewModel\obj\Debug\netcoreapp3.1\RealShop.ViewModel.csproj.CopyComplete
+D:\rs\RealShop\RealShop.ViewModel\obj\Debug\netcoreapp3.1\RealShop.ViewModel.dll
+D:\rs\RealShop\RealShop.ViewModel\obj\Debug\netcoreapp3.1\RealShop.ViewModel.pdb

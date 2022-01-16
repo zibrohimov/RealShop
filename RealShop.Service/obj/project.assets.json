@@ -70,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.Service\\RealShop.Service.csproj",
+      "projectUniqueName": "D:\\rs\\RealShop\\RealShop.Service\\RealShop.Service.csproj",
       "projectName": "RealShop.Service",
-      "projectPath": "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.Service\\RealShop.Service.csproj",
+      "projectPath": "D:\\rs\\RealShop\\RealShop.Service\\RealShop.Service.csproj",
       "packagesPath": "C:\\Users\\zibro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.Service\\obj\\",
+      "outputPath": "D:\\rs\\RealShop\\RealShop.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zibro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,14 +92,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.Data\\RealShop.Data.csproj": {
-              "projectPath": "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.Data\\RealShop.Data.csproj"
+            "D:\\rs\\RealShop\\RealShop.Data\\RealShop.Data.csproj": {
+              "projectPath": "D:\\rs\\RealShop\\RealShop.Data\\RealShop.Data.csproj"
             },
-            "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.Domain\\RealShop.Domain.csproj": {
-              "projectPath": "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.Domain\\RealShop.Domain.csproj"
+            "D:\\rs\\RealShop\\RealShop.Domain\\RealShop.Domain.csproj": {
+              "projectPath": "D:\\rs\\RealShop\\RealShop.Domain\\RealShop.Domain.csproj"
             },
-            "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.ViewModel\\RealShop.ViewModel.csproj": {
-              "projectPath": "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.ViewModel\\RealShop.ViewModel.csproj"
+            "D:\\rs\\RealShop\\RealShop.ViewModel\\RealShop.ViewModel.csproj": {
+              "projectPath": "D:\\rs\\RealShop\\RealShop.ViewModel\\RealShop.ViewModel.csproj"
             }
           }
         }

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.ViewModel\\RealShop.ViewModel.csproj",
+      "projectUniqueName": "D:\\rs\\RealShop\\RealShop.ViewModel\\RealShop.ViewModel.csproj",
       "projectName": "RealShop.ViewModel",
-      "projectPath": "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.ViewModel\\RealShop.ViewModel.csproj",
+      "projectPath": "D:\\rs\\RealShop\\RealShop.ViewModel\\RealShop.ViewModel.csproj",
       "packagesPath": "C:\\Users\\zibro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.ViewModel\\obj\\",
+      "outputPath": "D:\\rs\\RealShop\\RealShop.ViewModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zibro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.Domain\\RealShop.Domain.csproj": {
-              "projectPath": "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.Domain\\RealShop.Domain.csproj"
+            "D:\\rs\\RealShop\\RealShop.Domain\\RealShop.Domain.csproj": {
+              "projectPath": "D:\\rs\\RealShop\\RealShop.Domain\\RealShop.Domain.csproj"
             }
           }
         }

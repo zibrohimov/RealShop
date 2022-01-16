@@ -11,7 +11,11 @@ namespace RealShop.Service
         {
             var productRepository = new ProductRepository();
 
+            var categoryService = new CategoryService();
+
             var product = (ProductViewModel)productRepository.GetById(id);
+
+            product.Category = categoryService.GetById(product.CategoryId);
 
             return product;
         }

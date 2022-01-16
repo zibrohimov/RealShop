@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.Domain\\RealShop.Domain.csproj",
+      "projectUniqueName": "D:\\rs\\RealShop\\RealShop.Domain\\RealShop.Domain.csproj",
       "projectName": "RealShop.Domain",
-      "projectPath": "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.Domain\\RealShop.Domain.csproj",
+      "projectPath": "D:\\rs\\RealShop\\RealShop.Domain\\RealShop.Domain.csproj",
       "packagesPath": "C:\\Users\\zibro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zibro\\source\\repos\\rs\\RealShop\\RealShop.Domain\\obj\\",
+      "outputPath": "D:\\rs\\RealShop\\RealShop.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zibro\\AppData\\Roaming\\NuGet\\NuGet.Config",
